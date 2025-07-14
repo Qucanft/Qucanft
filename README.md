@@ -1,4 +1,4 @@
- This is an astrological data frame
+ individual 
 
 <!--
 **Qucanft/Qucanft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
